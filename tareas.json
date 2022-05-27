@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Sacar la basura",
+    "estado": "terminado"
+  },
+  {
+    "titulo": "Practicar Js",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Hacer las compras",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "dormir",
+    "estado": "pendiente"
+  }
+]
